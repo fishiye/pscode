@@ -1,0 +1,10 @@
+{
+  "name": "Voxlblade Private Server Tool",
+  "description": "A tool for joining Voxl dungeons easier!",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "ps.html",
+    "default_icon": "voxl.png"
+  }
+}
